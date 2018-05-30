@@ -11,7 +11,7 @@ import shutil
   
 nameStr = []  
   
-with open("COCO_train_oo3.json","r+") as f:  
+with open("COCO_train_oo2.json","r+") as f:  
     data = json.load(f)  
     print("read ready")  
   
